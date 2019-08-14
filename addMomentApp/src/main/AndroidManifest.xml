@@ -11,7 +11,9 @@
         android:theme="@style/AppTheme"
         tools:ignore="GoogleAppIndexingWarning">
 
-        <activity android:name="com.adenysiuk.momentsampleapp.substitute.AddMomentActivity">
+        <activity
+            android:name="com.adenysiuk.momentsampleapp.substitute.AddMomentActivity"
+            android:label="Add Module">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
