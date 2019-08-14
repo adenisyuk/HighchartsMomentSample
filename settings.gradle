@@ -1,0 +1,1 @@
+include ':addMomentApp', ':substituteMomentApp', ':common'
